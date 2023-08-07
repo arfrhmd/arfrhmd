@@ -1,16 +1,32 @@
-### Hello world! :wave:
+## Hello, nice to meet you! :wave:
 
-> Welcome to my GitHub profile
+- My name is **Arif Rahmadi Wibowo**
+- I'm currently working as **IT Support** in manufacture industry
+- I also control the **Linux** operating system (CentOS, Ubuntu, Debian)
+- I love space 🚀 and anime 🗾
 
-<p>
-My Github account aims to share my hobbies, I really like anything about automation.<br>
-All the repositories that I share here are mostly the result of my hobby which I make when I have free time.
-</p>
+<hr>
+<h2 align="center">Stats</h2>
+<p align="center"><i>Check the stats.</i></p>
 
-Here is my stats on GitHub :
+![GitHub Streak](https://streak-stats.demolab.com?user=arfrhmd&theme=tokyonight&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfrhmd&show_icons=true&theme=tokyonight&hide_border=true)
 
-![stats](https://github-readme-stats.vercel.app/api?username=arfrhmd&hide_border=true&show_icons=true&theme=prussian "arfrhmd's GitHub stats")
+<hr>
+<h2 align="center">
+  Languages
+</h2>
+<p align="center"><i>The languages that I've learned.</i></p>
 
-Let see languages that I learned :
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfrhmd&hide=Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&text_color=ffffff&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfrhmd&layout=compact "arfrhmd's GitHub language")
+## Contact
+
+- LinkedIn : [Arif Rahmadi Wibowo](https://www.linkedin.com/id/arif-rahmadi)
+- Instagram : [@arfrhmd_](https://www.instagram.com/arfrhmd_)
+- Email : [me@arifrahmadi.id](mailto:me@arifrahmadi.id) or [arifrahmadi.w@gmail.com](mailto:arifrahmadi.w@gmail.com)
+- Website : [arifrahmadi.id](https://arifrahmadi.id/)
