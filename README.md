@@ -9,8 +9,11 @@
 <h2 align="center">Stats</h2>
 <p align="center"><i>Check the stats.</i></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arfrhmd&theme=tokyonight&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfrhmd&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img height=175 align="center" src="https://streak-stats.demolab.com?user=arfrhmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=arfrhmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Arfrhmd's GitHub Stats" />
+</div>
+
 
 <hr>
 <h2 align="center">
@@ -20,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfrhmd&hide=Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&text_color=ffffff&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfrhmd&hide=Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&text_color=ffffff&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
