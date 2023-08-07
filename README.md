@@ -10,8 +10,8 @@
 <p align="center"><i>Check the stats.</i></p>
 
 <div align="center">
-  <img height=175 align="center" src="https://streak-stats.demolab.com?user=arfrhmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=arfrhmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Arfrhmd's GitHub Stats" />
+  <img height=150 align="center" src="https://streak-stats.demolab.com?user=arfrhmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=arfrhmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Arfrhmd's GitHub Stats" />
 </div>
 
 
@@ -29,7 +29,7 @@
 
 ## Contact
 
-- LinkedIn : [Arif Rahmadi Wibowo](https://www.linkedin.com/id/arif-rahmadi)
+- LinkedIn : [Arif Rahmadi Wibowo](https://www.linkedin.com/in/arif-rahmadi)
 - Instagram : [@arfrhmd_](https://www.instagram.com/arfrhmd_)
 - Email : [me@arifrahmadi.id](mailto:me@arifrahmadi.id) or [arifrahmadi.w@gmail.com](mailto:arifrahmadi.w@gmail.com)
 - Website : [arifrahmadi.id](https://arifrahmadi.id/)
