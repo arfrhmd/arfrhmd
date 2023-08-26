@@ -1,7 +1,7 @@
 ## Hello, nice to meet you! :wave:
 
 - 👨 My name is **Arif Rahmadi Wibowo**
-- 🖥️ I'm currently working as **IT Support** on tableware manufacture industry ([@itpthsi](https://github.com/itpthsi/))
+- 🖥️ I'm currently working as **IT Support** on ceramic tableware manufacturer (website: [pthsi.com](https://pthsi.com/))
 - 📂 I also control the **Linux** operating system (CentOS, Ubuntu, Debian)
 - 🔭 I love space, cat, and anime
 
