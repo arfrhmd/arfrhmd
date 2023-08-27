@@ -27,7 +27,7 @@
   </a>
 </div>
 
-## Contact
+## Connect with me
 
 - LinkedIn : [Arif Rahmadi Wibowo](https://www.linkedin.com/in/arif-rahmadi)
 - Instagram : [@arfrhmd_](https://www.instagram.com/arfrhmd_)
