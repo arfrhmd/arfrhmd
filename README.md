@@ -1,12 +1,12 @@
 ## Hello, nice to meet you! :wave:
 
-👨 My name is **Arif Rahmadi Wibowo** <br>
-🖥️ I'm currently working as **IT Support** on ceramic tableware manufacturer (website: [pthsi.com](https://pthsi.com/)) <br>
-📂 I also control the **Linux** operating system (CentOS, Ubuntu, Debian) <br>
-🔭 I love space, cat, and anime
+- 👨 My name is **Arif Rahmadi Wibowo** <br>
+- 🖥️ I'm currently working as **IT Support** on [Ceramic Tableware Manufacturer](https://pthsi.com) <br>
+- 📂 I also control the **Linux** operating system (CentOS, Ubuntu, Debian) <br>
+- 🔭 I love space, cat, and anime
 
 <hr>
-<h2 align="center">Stats</h2>
+<h2 align="center">Github Stats</h2>
 <p align="center"><i>Check the stats.</i></p>
 
 <div align="center">
