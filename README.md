@@ -31,5 +31,5 @@
 
 - LinkedIn : [Arif Rahmadi Wibowo](https://www.linkedin.com/in/arif-rahmadi)
 - Instagram : [@arfrhmd_](https://www.instagram.com/arfrhmd_)
-- Email : [me@arifrahmadi.id](mailto:me@arifrahmadi.id) or [arifrahmadi.w@gmail.com](mailto:arifrahmadi.w@gmail.com)
+- Email : [arif@rahmadi.id](mailto:arif@rahmadi.id) or [arifrahmadi.w@gmail.com](mailto:arifrahmadi.w@gmail.com)
 - Website : [arifrahmadi.id](https://arifrahmadi.id/)
